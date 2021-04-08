@@ -8,7 +8,7 @@ public class MyGitClass {
 		System.out.println("My secon commit");
 		System.out.println("3. yorum");
 		System.out.println("4.yorum");
-		
+		System.out.println("deneme");
 	
 	}
 
