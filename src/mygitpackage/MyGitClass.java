@@ -9,7 +9,7 @@ public class MyGitClass {
 		System.out.println("3. yorum");
 		System.out.println("4.yorum");
 		System.out.println("deneme");
-	
+	System.out.println("uzak sunucu");
 	}
 
 }
