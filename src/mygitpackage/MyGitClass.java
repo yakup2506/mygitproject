@@ -10,6 +10,9 @@ public class MyGitClass {
 		System.out.println("4.yorum");
 		System.out.println("deneme");
 	System.out.println("uzak sunucu");
+	
+	
+	System.out.println("Yakup branchinde yazdigim kodlar");
 	}
 
 }
